@@ -1,0 +1,12 @@
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.BLL\bin\Debug\net6.0\API.BLL.deps.json
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.BLL\bin\Debug\net6.0\API.BLL.dll
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.BLL\bin\Debug\net6.0\API.BLL.pdb
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.BLL\obj\Debug\net6.0\API.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.BLL\obj\Debug\net6.0\API.BLL.AssemblyInfoInputs.cache
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.BLL\obj\Debug\net6.0\API.BLL.AssemblyInfo.cs
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.BLL\obj\Debug\net6.0\API.BLL.csproj.CoreCompileInputs.cache
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.BLL\obj\Debug\net6.0\API.BLL.dll
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.BLL\obj\Debug\net6.0\refint\API.BLL.dll
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.BLL\obj\Debug\net6.0\API.BLL.pdb
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.BLL\obj\Debug\net6.0\ref\API.BLL.dll
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.BLL\obj\Debug\net6.0\API.BLL.csproj.AssemblyReference.cache

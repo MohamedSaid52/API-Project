@@ -1,0 +1,15 @@
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\bin\Debug\net6.0\API.DAL.deps.json
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\bin\Debug\net6.0\API.DAL.dll
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\bin\Debug\net6.0\API.DAL.pdb
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\bin\Debug\net6.0\API.BLL.dll
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\bin\Debug\net6.0\API.BLL.pdb
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\obj\Debug\net6.0\API.DAL.csproj.AssemblyReference.cache
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\obj\Debug\net6.0\API.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\obj\Debug\net6.0\API.DAL.AssemblyInfoInputs.cache
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\obj\Debug\net6.0\API.DAL.AssemblyInfo.cs
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\obj\Debug\net6.0\API.DAL.csproj.CoreCompileInputs.cache
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\obj\Debug\net6.0\API.DAL.csproj.CopyComplete
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\obj\Debug\net6.0\API.DAL.dll
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\obj\Debug\net6.0\refint\API.DAL.dll
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\obj\Debug\net6.0\API.DAL.pdb
+E:\Full Stack\Back End\Ahmed Khaled\08 ASP API\API.DAL\obj\Debug\net6.0\ref\API.DAL.dll
